@@ -4,7 +4,7 @@
     
 # Live Project Link
    
-   Crypto Hunter: https://cryptohunter111.netlify.app/
+   Crypto Hunter: https://cryptocurrencyupdater.netlify.app/
    
 # Introduction
 This is a code repository for the corresponding Project.
